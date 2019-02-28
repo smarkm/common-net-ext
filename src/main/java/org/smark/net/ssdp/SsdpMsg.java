@@ -1,15 +1,15 @@
 package org.smark.net.ssdp;
 
-public class SSDPMsg {
+public class SsdpMsg {
 	private String content;
 
 	
-	public SSDPMsg() {
+	public SsdpMsg() {
 		super();
 	}
 
 
-	public SSDPMsg(String content) {
+	public SsdpMsg(String content) {
 		super();
 		this.content = content;
 	}
